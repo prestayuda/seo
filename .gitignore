@@ -8,6 +8,8 @@ config/settings.*.php
 
 admin-dev/autoupgrade/
 /cache/
+/tmp/
+/tmp/*
 !/cache/index.php
 !/cache/cachefs/index.php
 !/cache/purifier/index.php
